@@ -1,0 +1,8 @@
+Explanation
+Caesar cipher Function: This function processes each character in the input text. It shifts alphabetic characters by the specified shift value while preserving their case. 
+
+It also apply to Non-alphabetic characters. 
+
+main Function: Handles user input, validates the shift value and mode, adjusts the shift for decryption, and applies the Caesar Cipher function to the message.
+
+Input Validation: Ensures the shift value is an integer and the mode is either 'E' or 'D', providing user-friendly error messages for invalid inputs.
